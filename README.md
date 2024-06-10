@@ -38,6 +38,9 @@ cd EDA
 
 *Profile Report*
 - Open the Sales_Profile_Report.html in a web browser to view the detailed profile report of the sales dataset.
+<img width="1280" alt="Screenshot 2024-06-10 at 12 52 22" src="https://github.com/srikavya26/EDA/assets/95865936/f172448b-fb35-4e81-8926-54d7f18ffb61">
+
+<img width="1280" alt="Screenshot 2024-06-10 at 12 52 32" src="https://github.com/srikavya26/EDA/assets/95865936/41551062-9dc4-4ea3-9682-9b08ed9bac8f">
 
 #### Conclusion
 This EDA provides valuable insights into the sales data, aiding in data-driven decision-making and strategic planning. The visualizations and detailed profile report enhance the understanding of sales dynamics, helping stakeholders to identify key trends and patterns.
