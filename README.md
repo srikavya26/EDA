@@ -35,6 +35,7 @@ XGBoost (Extreme Gradient Boosting) is a powerful machine learning technique tha
 - Ensure you have Python 3.x installed along with the following libraries:
 ``` bash
 pip install pandas seaborn matplotlib calmap pandas-profiling
+!pip install xgboost
 ```
 #### Running the Analysis
 #### Clone the Repository
